@@ -585,7 +585,7 @@ textarea:focus {
 
 .hidden {
   opacity: 0;
-  transition: 1s;
+  transition: all 1s;
 }
 
 .show {
