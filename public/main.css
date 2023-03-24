@@ -582,3 +582,12 @@ textarea:focus {
 .footer p {
   color: #ffffff;
 }
+
+.hidden {
+  opacity: 0;
+  transition: 1s;
+}
+
+.show {
+  opacity: 1;
+}
